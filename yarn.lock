@@ -1,3 +1,9 @@
 		"PULUMI_ACCESS_TOKEN": {
 			{input: "pul-2b570c803e6199f3be71e94aaff821552d53f05e"},
 		},
+
+
+// shortest possible discord api token
+			{input: "MTk4NjIyNDgzNDcxOTI1MjQ.Cl2FMQ.ZnCjm1XVW7vRze4b7Cq4se7kKWs"},
+			// longest possible discord api token
+			
