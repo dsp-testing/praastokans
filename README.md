@@ -7,3 +7,7 @@
 				input: `{"_userName":"User123","_authToken":"fa91777e-0049-467d-b608-5e5e636225c5"}`,
 				matches: []string{
 					`_au
+		"MICROSOFT_VSTS_PAT": {
+			{input: "4ekvoj6ggsvgeac2nj7xbmnkmudqat3eta42aomb266b7clwmnta"},
+		},
+		"M
